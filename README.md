@@ -12,8 +12,8 @@ You can click the Preview link to take a look at your changes.
 ## Olá! Eu sou José Fabio
 <div align="center">
   <a href="[https://github.com/SanThorjf]">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sant19&show_icons=true&true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sant19&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SanThorjf&show_icons=true&true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanThorjf&layout=compact&langs_count=7&theme=tokyonight"/>
 
 </div>
   
